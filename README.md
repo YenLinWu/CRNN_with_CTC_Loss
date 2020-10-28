@@ -6,7 +6,7 @@ This project demonstrates how we can build a deep neural network with **Connecti
 
 
 ## Dataset 資料集  
-Total 18,000 different 104 x 24 captcha images, with 4 maximum length for each image.   
+Total 1,800 different 104 x 24 captcha images, with 4 maximum length for each image.   
 Image sourse: [Taiwan Insurance Institute](http://insdb.tii.org.tw/pivot/)
 <p align="center">
   <img src="https://github.com/YenLinWu/CRNN_with_CTC_Loss/blob/main/Dataset_Img.png">
@@ -22,5 +22,5 @@ Image sourse: [Taiwan Insurance Institute](http://insdb.tii.org.tw/pivot/)
 [4] [Baoguang Shi, Xiang Bai & Cong Yao (2015), An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition](https://arxiv.org/abs/1507.05717 'Paper')    
 [5] [Alex Graves, Santiago Fernández, Faustino Gomez & Jürgen Schmidhuber (2006), Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks](http://www.cs.toronto.edu/~graves/icml_2006.pdf 'Paper')    
 
-## 作者 Author  
+## Author  作者    
 <span> - &copy; Tom Wu (<a href="https://github.com/YenLinWu">Github</a>) </span>  
