@@ -13,6 +13,11 @@ Image sourse: [Taiwan Insurance Institute](http://insdb.tii.org.tw/pivot/)
 </p>
 
 
+## Python Scripts  程式碼    
+- [Local Version](https://github.com/YenLinWu/CRNN_with_CTC_Loss/blob/main/CRNN_with_CTC.ipynb)  
+- Colab Version [![Colab](https://img.shields.io/badge/Script-Google_Colab-yellow.svg)](https://colab.research.google.com/github/YenLinWu/CRNN_with_CTC_Loss/blob/main/CRNN_with_CTC_in_Colab.ipynb) 
+
+
 ## References  參考文獻
 > ### Articles  文章  
 [1] [A_K_Nain (2020), OCR model for reading Captchas](https://keras.io/examples/vision/captcha_ocr/)  
