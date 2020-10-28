@@ -9,12 +9,12 @@ This project demonstrates how we can build a deep neural network with **Connecti
 Total 1,800 different 104 x 24 captcha images, with 4 maximum length for each image.   
 Image sourse: [Taiwan Insurance Institute](http://insdb.tii.org.tw/pivot/ "財團法人保險事業發展中心 保險統計資料庫加值服務" )
 <p align="center">
-  <img src="https://github.com/YenLinWu/CRNN_with_CTC_Loss/blob/main/README_img/Dataset.png" width="960" height="540" >
+  <img src="https://github.com/YenLinWu/CRNN_with_CTC_Loss/blob/main/README_img/Dataset.png" >
 </p>
 
 
 ## Inference 預測  
-
+Evaluate the CRNN model on the testing dataset(total 100 diffrent captcha images), which has never been used in training.   
 <p align="center">
   <img src="https://github.com/YenLinWu/CRNN_with_CTC_Loss/blob/main/README_img/Inference.png" width="360" height="1296" >
 </p>
