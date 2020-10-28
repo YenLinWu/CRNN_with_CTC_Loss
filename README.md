@@ -7,11 +7,18 @@ This project demonstrates how we can build a deep neural network with **Connecti
 
 ## Dataset 資料集  
 Total 1,800 different 104 x 24 captcha images, with 4 maximum length for each image.   
-Image sourse: [Taiwan Insurance Institute](http://insdb.tii.org.tw/pivot/)
+Image sourse: [Taiwan Insurance Institute](http://insdb.tii.org.tw/pivot/ "財團法人保險事業發展中心 保險統計資料庫加值服務" )
 <p align="center">
-  <img src="https://github.com/YenLinWu/CRNN_with_CTC_Loss/blob/main/Dataset_Img.png">
+  <img src="https://github.com/YenLinWu/CRNN_with_CTC_Loss/blob/main/README_img/Dataset.png" width="960" height="540" >
 </p>
 
+
+## Inference 預測  
+
+<p align="center">
+  <img src="https://github.com/YenLinWu/CRNN_with_CTC_Loss/blob/main/README_img/Inference.png" width="360" height="1296" >
+</p>
+  
 
 ## Python Scripts  程式碼    
 - [Local Version](https://github.com/YenLinWu/CRNN_with_CTC_Loss/blob/main/CRNN_with_CTC.ipynb)  
