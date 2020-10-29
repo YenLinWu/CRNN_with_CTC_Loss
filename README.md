@@ -14,7 +14,8 @@ Image sourse: [Taiwan Insurance Institute](http://insdb.tii.org.tw/pivot/ "財�
 
 
 ## Inference 預測  
-Evaluate the CRNN model on the testing dataset(total 100 diffrent captcha images), which has never been used in training.   
+Evaluate the CRNN model on the testing dataset(total 100 diffrent captcha images), which has never been used in training. 
+- Only one false prediction: the inference of 7041.png is 7091. 
 <p align="center">
   <img src="https://github.com/YenLinWu/CRNN_with_CTC_Loss/blob/main/README_img/Inference.png" width="360" height="1296" >
 </p>
