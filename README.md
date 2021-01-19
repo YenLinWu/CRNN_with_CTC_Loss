@@ -5,6 +5,8 @@
 This project demonstrates how we can build a deep neural network with **Connectionist Temporal Classification** loss function for reading captcha. The model is based on the paper [An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition (2015), Baoguang Shi et al.](http://arxiv.org/abs/1507.05717).
 </p>
 
+![image](./README_img/CRNN.png)
+
 ## Dataset 資料集  
 Total 1,800 different 104 x 24 captcha images, with 4 maximum length for each image.   
 Image sourse: [Taiwan Insurance Institute](http://insdb.tii.org.tw/pivot/ "財團法人保險事業發展中心 保險統計資料庫加值服務" )
