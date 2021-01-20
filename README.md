@@ -2,8 +2,8 @@
 
 ![Python3.7](https://img.shields.io/badge/Python-3.7-blue.svg) ![TensorFlow2.3](https://img.shields.io/badge/TensorFlow-2.3-yellow.svg) ![Keras2.4](https://img.shields.io/badge/Keras-2.4-red.svg)
 
-This project demonstrates how we can build a deep neural network with **Connectionist Temporal Classification** loss function for reading captcha. The model is based on the paper [An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition (2015), Baoguang Shi et al.](http://arxiv.org/abs/1507.05717).
-</p>
+This project demonstrates how we can build a deep neural network with **Connectionist Temporal Classification** loss function for reading captcha. The model is based on the paper [An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition (2015), Baoguang Shi, Xiang Bai & Cong Yao](http://arxiv.org/abs/1507.05717). Please see the below figure for the architecture of CRNN model on this project :
+<br>
 
 ![image](./README_img/CRNN.png)
 
